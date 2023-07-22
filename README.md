@@ -16,12 +16,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#key-features">Key Features
-      <ul>
-        <li><a href="#the-game">The Game</a></li>
-        <li><a href="#the-technology">The Technology</a></li>
-      </ul>    
-    </li>
+    <li><a href="#key-features">Key Features</li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
